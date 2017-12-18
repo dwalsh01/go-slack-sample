@@ -42,6 +42,7 @@ ProjectName/
         github repos of code used her
     main.go 
     Procfile 
+    LICENCE
     readme.md
 ```
 
