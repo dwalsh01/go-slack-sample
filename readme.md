@@ -85,6 +85,7 @@ Now, to set this in your heroku project, from the terminal enter the following:
 $ heroku set:config api=api-key-here
 ```
 Enter the api key given when you setup the slack bot 
+
 Once that's done its simply: 
 
 ```
